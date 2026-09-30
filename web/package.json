@@ -16,7 +16,7 @@
     "vite": "^8.3.1"
   },
   "dependencies": {
-    "echarts": "^5.5.1"
+    "echarts": "^6.1.0"
   },
   "overrides": {
     "cookie": "^0.7.2"
